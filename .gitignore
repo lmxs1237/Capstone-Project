@@ -98,4 +98,4 @@ ENV/
 data/*
 
 # Project specific
-
+.Rhistory
