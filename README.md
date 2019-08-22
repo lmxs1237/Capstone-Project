@@ -5,7 +5,7 @@ This project use data visualization, machine learning and NLP to analysis custom
 * **Data Clean.ipynb**
 * **Order Distribution.ipynb**: Visualize the order distribution with time(hours, day, month, year), location. Analyse items performance and find top 10 sold items.
 * **Sales Map.R**: Using *leaflet* create a map indicating the orders frequency vs. locations.
-![map](https://github.com/lmxs1237/Capstone-Project/blob/master/map/map.png)  
+![map](https://github.com/lmxs1237/Capstone-Project/blob/master/images/map.png)  
 * **Conversion Rate Analysis.ipynb**: Compare Store performance with industry average performance and top 10 store performance. Propose methods to Increase Conversion Rate.  
 * **Customer Churn.ipynb**: Using logistic regression to predict the probability of customer return rate in a 30 day period.
 * **NLP on OrderNote.ipynb**: Apply simple NLP on OrderNote to analyze th return reason, also bulid a wordcloud.
